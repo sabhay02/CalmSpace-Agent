@@ -1,4 +1,4 @@
-# SafeSpace AI Agent
+# CalmSpace AI Agent
 
 A compassionate, AI-powered mental health support chatbot that integrates with multiple channels including web and WhatsApp. SafeSpace provides evidence-based emotional support, therapeutic guidance, and connects users with professional help when needed.
 
